@@ -1,4 +1,4 @@
-from Modbus_TCP import *
+from .Modbus_TCP import *
 import time
 import csv
 
